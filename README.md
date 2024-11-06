@@ -9,3 +9,5 @@ This repository contains following branches:
 - `feature-script`
 
 New changes blablabla
+
+More changes in the feature script to be merged into main
